@@ -18,9 +18,6 @@ The analysis file will list all ports with more than 2 MAC addresses and the ven
 In the next version I may add an automated review function and move the script from SSH to Netconf or equivalent. I will also look into reformatting the script for Junos devices
 
 
-If you have any questions about the script please email me at: Cullen.Humphries@zf.com
-
-
 
 
 
